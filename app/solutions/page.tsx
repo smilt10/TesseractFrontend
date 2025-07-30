@@ -9,8 +9,8 @@ export default function SolutionsPage() {
       image: "/manufacturing-solution-new.png",
       alt: "Manufacturing Solutions",
       title: "Manufacturing",
-      description: "Enhance customer experiences, improve risk management, and streamline operations with our financial services solutions.",
-        
+       description:
+        "Enhance customer experiences, improve risk management, and streamline operations with our financial services solutions.",
       href: "/solutions/manufacturing",
     },
     {
